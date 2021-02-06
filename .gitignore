@@ -1,1 +1,4 @@
 node_modules
+/.idea/todobackend-specs.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
